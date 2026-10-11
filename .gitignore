@@ -1,2 +1,11 @@
 .DS_Store
 /build
+
+# FVM Version Cache
+.fvm/
+.dart_tool
+android/.gradle/
+external/mb_background_video_recorder-0.0.1/android/.gradle/
+external/mb_background_video_recorder-0.0.1/example/android/.gradle/
+external/mb_background_video_recorder-0.0.1/example/android/gradle/wrapper/
+external/mb_background_video_recorder-0.0.1/example/android/
